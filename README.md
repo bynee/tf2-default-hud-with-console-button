@@ -2,7 +2,7 @@
 
 HUD that makes the 'View Promotional Codes' button visible and changes its function to open the console.
 
-[!IMPORTANT]
+**IMPORTANT**  
 This modification was created **specifically for the default HUD**.  
 Using it in conjunction with other HUDs may cause issues.
 
